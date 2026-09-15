@@ -1,0 +1,129 @@
+HTML & CSS Assignment
+Nature & Environment Website
+Total Marks: 50
+Task
+Create a Nature & Environment Website using HTML and CSS.
+The website should present the beauty of nature and provide information about forests, mountains, rivers, wildlife, and environmental protection.
+Requirements
+1. Header & Navigation — 5 Marks
+Create a header containing:
+- Website logo/name
+- Home
+- About
+- Nature
+- Wildlife
+- Contact
+2. Hero Section — 8 Marks
+Create a hero section containing:
+- Nature background image
+- Main heading
+- Short description
+- Call-to-action button
+3. About Nature — 7 Marks
+Create an About section containing:
+- Heading
+- Nature-related information
+- Relevant image
+- Information about the importance of nature
+4. Nature Categories — 10 Marks
+Create at least 4 nature cards.
+Each card must contain:
+- Image
+- Title
+- Short description
+Suggested categories:
+- Forests
+- Mountains
+- Rivers
+- Oceans
+- Waterfalls
+- Wildlife
+5. Wildlife Section — 5 Marks
+Create a wildlife section containing:
+- Heading
+- Wildlife images
+- Short descriptions
+- Information about protecting wildlife
+6. Protect Nature — 5 Marks
+Create a section about environmental protection.
+Include information about:
+- Planting trees
+- Saving water
+- Reducing pollution
+- Protecting wildlife
+- Reducing plastic
+7. Contact Form — 5 Marks
+Create a contact form containing:
+- Name
+- Email
+- Subject
+- Message
+- Submit button
+8. Footer — 5 Marks
+Create a footer containing:
+- Website name
+- Short description
+- Navigation links
+- Social media links
+- Copyright information
+————
+CSS Requirements
+Use CSS to create:
+- Proper page layout
+- Colors
+- Typography
+- Spacing
+- Images
+- Cards
+- Buttons
+- Borders
+- Border-radius
+- Flexbox
+- Hover effects
+- Responsive design
+————
+Responsive Design
+The website must be responsive for:
+- Desktop
+- Tablet
+- Mobile
+There should be no horizontal scrolling on smaller screens.
+————
+Required Page Structure
+Header
+   ↓
+Hero Section
+   ↓
+About Nature
+   ↓
+Nature Categories
+   ↓
+Wildlife
+   ↓
+Protect Nature
+   ↓
+Contact
+   ↓
+Footer
+
+————
+Project Structure
+nature-website/
+│
+├── index.html
+│
+├── style.css
+│
+└── images/
+
+————
+Rules
+- Use HTML and CSS only.
+- Do not use JavaScript.
+- Do not use Bootstrap or other CSS frameworks.
+- Use your own design.
+- Use proper HTML structure.
+- Maintain clean and readable code.
+- All required sections are mandatory.
+————
+create website userinterface 
